@@ -10,7 +10,7 @@ UI组件库开发React+TypeScript+React- testing-library+Storybook
 4. 组件测试测试用例和编码
 5. 代码打包输出和发布
 6. CI/CD 文档生成等
-
+心态：繁琐的需求，化繁为简，抛在脑后，现从简单如数，再需求中慢慢复杂
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
