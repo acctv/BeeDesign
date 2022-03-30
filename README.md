@@ -18,7 +18,8 @@ UI组件库开发React+TypeScript+React- testing-library+Storybook
 
    npx creact-react-app bee --typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   心态：繁琐的需求，化繁为简，抛在脑后，现从简单如数，再需求中慢慢复杂 
+   This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
